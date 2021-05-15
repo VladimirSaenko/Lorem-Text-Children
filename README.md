@@ -1,4 +1,4 @@
-# Lorem-Children-animate-example
+# Lorem-Children
  
 Сайт с анимацией Lorem текста на CSS
 
