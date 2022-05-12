@@ -15,3 +15,9 @@
 ### https://codepen.io/vladimirsaenko/pen/jOmboxq
 
 ### }
+
+## Random Photos {
+
+### https://vladimirsaenko.github.io/Lorem-Text-RandomPhoto/
+
+### }
