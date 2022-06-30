@@ -8,7 +8,7 @@
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/Lorem-Children-animate-example/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/Lorem-Children-Text/index.html
 
 ### }
 
