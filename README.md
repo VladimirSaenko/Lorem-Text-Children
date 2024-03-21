@@ -6,20 +6,8 @@
 
 ![150795847-df34fd2e-ec70-49af-924e-0effeb7ecd0c](https://user-images.githubusercontent.com/56477695/170822437-23e0c58a-6d28-4aed-9b9e-1bc39d44c610.jpg)
 
-## Portfolio {
+## Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/Lorem-Children-Text/index.html
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/Lorem-Children-Text/index.html
+## Codepen: https://codepen.io/vladimirsaenko/pen/jOmboxq
 
-### }
-
-## Codepen {
-
-### https://codepen.io/vladimirsaenko/pen/jOmboxq
-
-### }
-
-## Random Photos {
-
-### https://vladimirsaenko.github.io/Lorem-Text-RandomPhoto/
-
-### }
+## Random Photos: https://vladimirsaenko.github.io/Lorem-Text-RandomPhoto/
